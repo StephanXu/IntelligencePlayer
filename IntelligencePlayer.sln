@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntelligencePlayer", "IntelligencePlayer\IntelligencePlayer.vcxproj", "{C951C1E9-4D68-474E-8008-755EE457843E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntelligenceExport", "IntelligenceExport\IntelligenceExport.vcxproj", "{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntelligenceHidingEngine", "IntelligenceHidingEngine\IntelligenceHidingEngine.vcxproj", "{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		XpRelease|x64 = XpRelease|x64
+		XpRelease|x86 = XpRelease|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C951C1E9-4D68-474E-8008-755EE457843E}.Debug|x64.ActiveCfg = Debug|x64
+		{C951C1E9-4D68-474E-8008-755EE457843E}.Debug|x64.Build.0 = Debug|x64
+		{C951C1E9-4D68-474E-8008-755EE457843E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C951C1E9-4D68-474E-8008-755EE457843E}.Debug|x86.Build.0 = Debug|Win32
+		{C951C1E9-4D68-474E-8008-755EE457843E}.Release|x64.ActiveCfg = Release|x64
+		{C951C1E9-4D68-474E-8008-755EE457843E}.Release|x64.Build.0 = Release|x64
+		{C951C1E9-4D68-474E-8008-755EE457843E}.Release|x64.Deploy.0 = Release|x64
+		{C951C1E9-4D68-474E-8008-755EE457843E}.Release|x86.ActiveCfg = Release|Win32
+		{C951C1E9-4D68-474E-8008-755EE457843E}.Release|x86.Build.0 = Release|Win32
+		{C951C1E9-4D68-474E-8008-755EE457843E}.XpRelease|x64.ActiveCfg = XpRelease|x64
+		{C951C1E9-4D68-474E-8008-755EE457843E}.XpRelease|x64.Build.0 = XpRelease|x64
+		{C951C1E9-4D68-474E-8008-755EE457843E}.XpRelease|x86.ActiveCfg = XpRelease|Win32
+		{C951C1E9-4D68-474E-8008-755EE457843E}.XpRelease|x86.Build.0 = XpRelease|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.Debug|x64.ActiveCfg = Debug|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.Debug|x64.Build.0 = Debug|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.Debug|x86.Build.0 = Debug|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.Release|x64.ActiveCfg = Release|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.Release|x64.Build.0 = Release|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.Release|x86.ActiveCfg = Release|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.Release|x86.Build.0 = Release|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.XpRelease|x64.ActiveCfg = Release|x64
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.XpRelease|x64.Build.0 = Release|x64
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.XpRelease|x86.ActiveCfg = Release|Win32
+		{A1162F76-95DB-4DE7-A538-CA60CE92EE4C}.XpRelease|x86.Build.0 = Release|Win32
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.Debug|x64.ActiveCfg = Debug|x64
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.Debug|x64.Build.0 = Debug|x64
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.Debug|x86.Build.0 = Debug|Win32
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.Release|x64.ActiveCfg = Release|x64
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.Release|x64.Build.0 = Release|x64
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.Release|x86.ActiveCfg = Release|Win32
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.Release|x86.Build.0 = Release|Win32
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.XpRelease|x64.ActiveCfg = Release|x64
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.XpRelease|x64.Build.0 = Release|x64
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.XpRelease|x86.ActiveCfg = Release|Win32
+		{E5EF0A20-9982-41B3-90CC-2A373A5B46B4}.XpRelease|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC69CEA5-3D3B-4951-B12F-665FF41227C3}
+	EndGlobalSection
+EndGlobal

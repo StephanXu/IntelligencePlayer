@@ -1,0 +1,14 @@
+LIBRARY
+EXPORTS
+Ver
+SetupInstance
+InitializeInstance
+SetStatus
+PutCards
+GetBestChoice
+BeginCalc
+FreeHidingEngine
+GetLog
+ResetArgu
+IsStillExsist
+SubmitResult
